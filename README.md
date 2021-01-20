@@ -3,4 +3,4 @@ This is a Bachelor's project from 2018 on applying Reinforcement Learning to the
 Requires Java and [Deeplearning4j](https://deeplearning4j.org/). Run using the file Network.java.
 
 
-![](https://github.com/remosasso/Lines-of-Action-using-Reinforcement-Learning/blob/main/target/classes/boardimg.PNG | width=48)
+![](https://github.com/remosasso/Lines-of-Action-using-Reinforcement-Learning/blob/main/target/classes/boardimg.PNG)
