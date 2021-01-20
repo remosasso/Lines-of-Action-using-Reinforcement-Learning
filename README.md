@@ -1,1 +1,1 @@
-This is a Bachelor's project from 2018 on applying Reinforcement Learning to the game Lines of Action. Temporal difference learning combined with self-play was used in this project resulting in competitive agents.
+This is a Bachelor's project from 2018 on applying Reinforcement Learning to the game Lines of Action. Temporal difference learning combined with self-play were used resulting in competitive agents.
